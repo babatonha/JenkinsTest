@@ -1,0 +1,11 @@
+C:\Users\localadmin\Documents\Learning\JenkinsCicdTest.API\JenkinsCicdTest.API\obj\Release\net8.0\PubTmp\Out\JenkinsCicdTest.API.exe
+C:\Users\localadmin\Documents\Learning\JenkinsCicdTest.API\JenkinsCicdTest.API\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\localadmin\Documents\Learning\JenkinsCicdTest.API\JenkinsCicdTest.API\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\localadmin\Documents\Learning\JenkinsCicdTest.API\JenkinsCicdTest.API\obj\Release\net8.0\PubTmp\Out\JenkinsCicdTest.API.dll
+C:\Users\localadmin\Documents\Learning\JenkinsCicdTest.API\JenkinsCicdTest.API\obj\Release\net8.0\PubTmp\Out\JenkinsCicdTest.API.deps.json
+C:\Users\localadmin\Documents\Learning\JenkinsCicdTest.API\JenkinsCicdTest.API\obj\Release\net8.0\PubTmp\Out\JenkinsCicdTest.API.runtimeconfig.json
+C:\Users\localadmin\Documents\Learning\JenkinsCicdTest.API\JenkinsCicdTest.API\obj\Release\net8.0\PubTmp\Out\JenkinsCicdTest.API.pdb
+C:\Users\localadmin\Documents\Learning\JenkinsCicdTest.API\JenkinsCicdTest.API\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\localadmin\Documents\Learning\JenkinsCicdTest.API\JenkinsCicdTest.API\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\localadmin\Documents\Learning\JenkinsCicdTest.API\JenkinsCicdTest.API\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\localadmin\Documents\Learning\JenkinsCicdTest.API\JenkinsCicdTest.API\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

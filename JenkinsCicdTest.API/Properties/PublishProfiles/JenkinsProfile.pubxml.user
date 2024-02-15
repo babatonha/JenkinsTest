@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\localadmin\Documents\Learning\JenkinsCicdTest.API\JenkinsCicdTest.API\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-02-14T09:58:20.6643969Z;True|2024-02-14T11:56:12.6503691+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
